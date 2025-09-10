@@ -1,0 +1,4 @@
+.gradientBackground {
+  background: radial-gradient(circle at center, rgba(0, 102, 204, 0.8) 0%, rgba(0, 0, 0, 0) 70%);
+  filter: blur(60px);
+} 
